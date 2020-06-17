@@ -2,6 +2,8 @@
 
 Pycli is a barebones template and boilerplate for a command line python application
 
+![](header.png)
+
 ## Installation
 
 Clone the package with
