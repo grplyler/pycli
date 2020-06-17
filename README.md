@@ -66,7 +66,7 @@ pip install setuptools click
     python setup.py install
     ```
 
-5. This automatially creates a symlink to your program. Run and check the output!
+4. This automatially creates a symlink to your program. Run and check the output!
 
     ```bash
     Usage: pycli [OPTIONS] COMMAND [ARGS]...
