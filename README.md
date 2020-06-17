@@ -1,8 +1,15 @@
 # pycli
 
-Pycli is a barebones template and boilerplate for a command line python application
+Pycli is a barebones template and boilerplate for a command line python application. Basically because I needed one.
 
-![](header.png)
+![](cli.png)
+![](output.png)
+
+## Requirements
+
+* Python
+* setuptools
+* click
 
 ## Installation
 
@@ -88,6 +95,13 @@ This template aims to reflect python standards and best practices by having a pr
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Community
+
+If you use this boilerplate for something cool, shoot me an email! I'd love you hear what you made!
+
+## Credits
+
+**Super Cool Code Images** by [Carbon](https://carbon.now.sh/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
